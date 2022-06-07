@@ -1,0 +1,16 @@
+Car	Engine volume	Color	Transmission
+BMW	02.май	Red	Auto
+BMW	1.0	Green	Manual
+BMW	01.май	Blue	Manual
+BMW	2.0	Blue	Auto
+Lexus	02.май	Blue	Manual
+Lexus	2.0	Green	Auto
+Lexus	01.май	Red	Auto
+Lexus	1.0	Red	Manual
+Peugeot	01.май	Green	Auto
+Peugeot	2.0	Red	Manual
+Peugeot	1.0	Blue	Auto
+Peugeot	02.май	Green	Manual
+Tesla	N/A	Blue	Auto
+Tesla	N/A	Green	Auto
+Tesla	N/A	Red	Auto
